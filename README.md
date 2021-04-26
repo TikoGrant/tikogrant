@@ -1,0 +1,5 @@
+- 👋 Hi, I’m TikoGrant
+- 👀 I’m interested in javascript, websites, and Discord bots.
+- 🌱 I’m currently learning discord.js.
+- 💞️ I’m looking to collaborate on Discord.
+- 📫 To reach me, email grant.garbe.bb85@gmail.com
